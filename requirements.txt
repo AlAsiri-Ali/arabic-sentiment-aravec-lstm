@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+gensim
+nltk
+tensorflow
+matplotlib
+arabic-reshaper
+python-bidi
+notebook
