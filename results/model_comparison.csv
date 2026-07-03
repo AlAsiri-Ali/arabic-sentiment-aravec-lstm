@@ -1,0 +1,3 @@
+model,representation,accuracy,negative_precision,negative_recall,negative_f1,positive_precision,positive_recall,positive_f1
+ANN,AraVec averaged vectors,0.68,0.66,0.72,0.69,0.69,0.63,0.66
+LSTM,Learned embedding sequence model,0.83,0.78,0.91,0.84,0.89,0.75,0.81
